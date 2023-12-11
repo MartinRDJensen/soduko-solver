@@ -14,4 +14,3 @@ $ python3 game.py
 
 ![/picture/1.png](/picture/1.png)
 ![/picture/2.png](/picture/2.png)
-# soduko-solver
